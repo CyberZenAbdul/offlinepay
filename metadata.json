@@ -1,0 +1,6 @@
+{
+  "name": "OfflinePay",
+  "description": "Secure offline peer-to-peer payment app with NFC tap-to-pay, encrypted QR codes, biometric authentication, UPI PIN, and local on-device ledger syncing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
